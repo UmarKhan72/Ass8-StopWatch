@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(173, 232, 255) !important;
+}
+
+.umimg1 {
+    margin-top: 10px;
+}
+
+h1 {
+    position: relative;
+    bottom: 350px;
+    left: 655px;
+    color: black;
+    display: inline-block;
+    width: 90px;
+    height: 60px;
+    background-color: white;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.btn {
+    position: relative;
+    bottom: 320px;
+    left: 612px;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+
+.umar {
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(102, 102, 102);
+}
+
+.btn-warning {
+    margin-top: 20px;
+    margin-left: 120px;
+    color: white !important;
+}
+
+@media (max-width: 1199.98px){
+    #min{
+        position: absolute;
+        left: 455px;
+        top: 458px;
+    }
+}
+
+@media (max-width: 1199.98px){
+    #sec{
+        position: absolute;
+        left: 550px;
+        top: 458px;
+    }
+}
+
+@media (max-width: 1199.98px){
+    #msec{
+        position: absolute;
+        left: 645px;
+        top: 458px;
+    }
+}
+
+@media (max-width: 1199.98px){
+    #btn1{
+        position: absolute;
+        left: 410px;
+        top: 560px;
+        height: 40px;
+    }
+}
+
+@media (max-width: 1199.98px){
+    #btn2{
+        position: absolute;
+        left: 530px;
+        top: 560px;
+        height: 40px;
+    }
+}
+
+@media (max-width: 1199.98px){
+    #btn3{
+        position: absolute;
+        left: 658px;
+        top: 560px;
+        height: 40px;
+    }
+}
